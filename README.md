@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuel-kuriakose
-- 👀 I’m interested in IOT, embedded system, python, analogue electronics
+- 👀 I’m interested in IOT,Python,Spark,NodeJS
 - 🌱 I’m a backend developer at UST.
 - 💞️ I’m looking to collaborate on data engineering, Python, NodeJS or Neo4j projects.
 - 📫 Reach me on sksams79@gmail.com
